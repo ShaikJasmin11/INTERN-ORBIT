@@ -76,6 +76,9 @@ This is a Level 1 task under the INTERN-ORBIT 2-month internship program. It foc
 
 * Building a basic front-end interface with Streamlit
 
+---
 
-
+## Author
+Jasmin Shaik
+INTERN ORBIT Internship - Level 1 Task
 
